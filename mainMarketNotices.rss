@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Nasdaq Europe Main Markets Notices</title>
+    <link>https://api.news.eu.nasdaq.com/news/rss/mainMarketNotices</link>
+    <description>Nasdaq Europe Main Markets Notices</description>
+    <language>en</language>
+    <pubDate>Fri, 27 Dec 2024 09:27:04 GMT</pubDate>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://api.news.eu.nasdaq.com/news/rss/mainMarketNotices" rel="self" type="application/rss+xml" />
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <dc:date>2024-12-27T09:27:04Z</dc:date>
+    <dc:language>en</dc:language>
+    <item>
+      <title>Expiration information Mortgage bond futures 42/24</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=bedf2ed6c1b8271cf67aa6112ff5b57b3&amp;lang=en&amp;src=rss</link>
+      <description>Fixed Income - Expiration</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Fixed Income</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Expiration</category>
+      <pubDate>Fri, 27 Dec 2024 09:27:04 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=bedf2ed6c1b8271cf67aa6112ff5b57b3&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-27T09:27:04Z</dc:date>
+    </item>
+    <item>
+      <title>Termination of membership on Nasdaq Stockholm: Vator Securities AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b133201429d9dcaf613c3e855d33770ef&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Exchange members</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Exchange members</category>
+      <pubDate>Fri, 27 Dec 2024 09:17:30 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b133201429d9dcaf613c3e855d33770ef&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-27T09:17:30Z</dc:date>
+    </item>
+    <item>
+      <title>Termination of membership on Nasdaq Iceland: Íslensk verðbréf hf.</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b0a970efed7deab65aa97deab0044576b&amp;lang=en&amp;src=rss</link>
+      <description>NASDAQ Iceland hf. - Exchange members</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">NASDAQ Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Exchange members</category>
+      <pubDate>Fri, 27 Dec 2024 09:00:00 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b0a970efed7deab65aa97deab0044576b&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-27T09:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Marel hf. - removal of shares from trading</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=ba309143ee9a2267bd9e97975ba5c754c&amp;lang=en&amp;src=rss</link>
+      <description>NASDAQ Iceland hf. - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">NASDAQ Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 16:42:53 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=ba309143ee9a2267bd9e97975ba5c754c&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T16:42:53Z</dc:date>
+    </item>
+    <item>
+      <title>Derivatives - New Strikes Stock Products 249/24</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=be757c84d81769bb0c8be1df92af780b2&amp;lang=en&amp;src=rss</link>
+      <description>Derivatives - Derivative market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Derivatives</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Derivative market information</category>
+      <pubDate>Mon, 23 Dec 2024 16:42:01 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=be757c84d81769bb0c8be1df92af780b2&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T16:42:01Z</dc:date>
+    </item>
+    <item>
+      <title>Observation status of the Shares of Marel hf. updated</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=be6816320fe04bdbb9650ce18291dd15e&amp;lang=en&amp;src=rss</link>
+      <description>NASDAQ Iceland hf. - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">NASDAQ Iceland hf.</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 15:34:38 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=be6816320fe04bdbb9650ce18291dd15e&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T15:34:38Z</dc:date>
+    </item>
+    <item>
+      <title>Normal market conditions reinstated in derivatives on NOVOB (348/24)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b0c91c35733819463ed85dd792b3dc2bb&amp;lang=en&amp;src=rss</link>
+      <description>Derivatives - Product information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Derivatives</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Product information</category>
+      <pubDate>Mon, 23 Dec 2024 13:37:00 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b0c91c35733819463ed85dd792b3dc2bb&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T13:37:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bond loan(s) issued by Landshypotek Bank AB will be admitted to trading on Nasdaq STO Corporate Bonds (Record Id 287970)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b5a53a0304163b2e05637675456f58dd4&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Bond Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Bond Market information</category>
+      <pubDate>Mon, 23 Dec 2024 13:05:14 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b5a53a0304163b2e05637675456f58dd4&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T13:05:14Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Granges AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b3fe5267fba13cb7042d2115fba50c56f&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:59:06 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b3fe5267fba13cb7042d2115fba50c56f&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:59:06Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Humble Group AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b8d45b329072f0158a6bdae58205b318d&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:58:06 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b8d45b329072f0158a6bdae58205b318d&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:58:06Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Dustin Group AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b7968ddcb181db4c960c9b9207ab2150f&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:55:43 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b7968ddcb181db4c960c9b9207ab2150f&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:55:43Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Modern Times Group AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=ba8928196e83d3ae69fec772f83b3d0d5&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:53:09 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=ba8928196e83d3ae69fec772f83b3d0d5&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:53:09Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Linc AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=bea71128fbba067b1f3dc82c95e9b626e&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:51:57 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=bea71128fbba067b1f3dc82c95e9b626e&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:51:57Z</dc:date>
+    </item>
+    <item>
+      <title>Change of ICB for Instalco AB</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b3c551933f74897160ed52c5f435ae6ee&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Equity Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Equity Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:50:53 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b3c551933f74897160ed52c5f435ae6ee&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:50:53Z</dc:date>
+    </item>
+    <item>
+      <title>Commercial Paper(s) issued by Medicover AB will be admitted to trading on Nasdaq STO Sustainable Commercial Paper (Record Id 287887)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b1515f1699024f933dbc21cba386e44eb&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Bond Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Bond Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:47:46 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b1515f1699024f933dbc21cba386e44eb&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:47:46Z</dc:date>
+    </item>
+    <item>
+      <title>Commercial Paper(s) issued by Medicover AB will be admitted to trading on Nasdaq STO Sustainable Commercial Paper (Record Id 287883)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=bcea9618c8d8343d5366f4a89e0afe2c5&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Bond Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Bond Market information</category>
+      <pubDate>Mon, 23 Dec 2024 12:46:30 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=bcea9618c8d8343d5366f4a89e0afe2c5&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T12:46:30Z</dc:date>
+    </item>
+    <item>
+      <title>Commercial Paper(s) issued by Medicover AB will be admitted to trading on Nasdaq STO Sustainable Commercial Paper (Record Id 287889)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b53df5ebbde20f3e4c2bad91f5806bc1a&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Bond Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Bond Market information</category>
+      <pubDate>Mon, 23 Dec 2024 10:20:43 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b53df5ebbde20f3e4c2bad91f5806bc1a&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T10:20:43Z</dc:date>
+    </item>
+    <item>
+      <title>Commercial Paper(s) issued by Medicover AB will be admitted to trading on Nasdaq STO Sustainable Commercial Paper (Record Id 287888)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=bae5c6a01988374b1a398749af07c1a3b&amp;lang=en&amp;src=rss</link>
+      <description>Nasdaq Stockholm AB - Bond Market information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Nasdaq Stockholm AB</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Bond Market information</category>
+      <pubDate>Mon, 23 Dec 2024 10:05:28 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=bae5c6a01988374b1a398749af07c1a3b&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T10:05:28Z</dc:date>
+    </item>
+    <item>
+      <title>Stressed market conditions in derivatives on EVO, NOVOB (347/24)</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b20ad369d54ed5193e2de467784504fae&amp;lang=en&amp;src=rss</link>
+      <description>Derivatives - Product information</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Derivatives</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Product information</category>
+      <pubDate>Mon, 23 Dec 2024 09:23:41 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b20ad369d54ed5193e2de467784504fae&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-23T09:23:41Z</dc:date>
+    </item>
+    <item>
+      <title>Standard Exercise - Swedish Stock 134/24</title>
+      <link>https://view.news.eu.nasdaq.com/view?id=b951fd7b120ef2274a5570c7de51daf44&amp;lang=en&amp;src=rss</link>
+      <description>Derivatives - Expiration</description>
+      <category domain="https:/news.eu.nasdaq.com/rss/market">NASDAQ OMX Nordic</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/company">Derivatives</category>
+      <category domain="https:/news.eu.nasdaq.com/rss/category">Expiration</category>
+      <pubDate>Fri, 20 Dec 2024 17:45:43 GMT</pubDate>
+      <guid>https://view.news.eu.nasdaq.com/view?id=b951fd7b120ef2274a5570c7de51daf44&amp;lang=en&amp;src=rss</guid>
+      <dc:date>2024-12-20T17:45:43Z</dc:date>
+    </item>
+  </channel>
+</rss>
